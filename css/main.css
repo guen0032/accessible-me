@@ -1,6 +1,6 @@
 body {
   font-family: 'Roboto', Helvetica, sans-serif;
-  background-color: grey;
+  background-color: #969696;
   margin: 0;
   padding: 0;
 }
@@ -68,4 +68,9 @@ form button {
 
 .site-footer {
   padding: 2rem 0;
+}
+
+.current a:link {
+  background: white;
+  border-bottom: 0.5em solid;
 }
